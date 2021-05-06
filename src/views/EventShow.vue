@@ -4,11 +4,9 @@
 
 <script>
 export default {
-    name: "EventShow",
-    props: ['id']
-}
+  name: "EventShow",
+  props: ["id"],
+};
 </script>
 
-<style>
-
-</style>
+<style></style>
